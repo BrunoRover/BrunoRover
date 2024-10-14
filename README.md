@@ -6,7 +6,7 @@ Sou estudante de Ciência da Computação e Análise e Desenvolvimento de Sistem
 
 <div style= "display: flex">
   <h5>PHP;</h5>
-  <h5>Java;</h5>
+  <h5>JavaScript;</h5>
   <h5>MySQL;</h5>
   <h5>Git e Github;</h5>
 </div>
