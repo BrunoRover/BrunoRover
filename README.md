@@ -1,13 +1,15 @@
 ## Olá, sou o Bruno Dalbosco Rover 👋
 
-Sou estudante de Ciência da Computação e Análise e Desenvolvimento de Sistemas na Univali. Estou começando na área de programação e tenho uma grande paixão por explorar e aprender novas tecnologias. Estou sempre atento às tendências e buscando me aprofundar em áreas inovadoras.
+Sempre preferi resolver problemas do que reclamar deles. Essa forma de pensar, junto com minha curiosidade por tecnologia, que começou bem cedo, me trouxe até o mundo da programação.
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (3º semestre) e Ciência da Computação (1º semestre).
 
 ## Principais Áreas De Conhecimento:
 
 <div style= "display: flex">
+  <h5>React e NextJs;</h5>
+  <h5>JavaScript e TypeScript;</h5>
   <h5>PHP;</h5>
-  <h5>JavaScript;</h5>
-  <h5>MySQL;</h5>
+  <h5>MySQL e MongoDB;</h5>
   <h5>Git e Github;</h5>
 </div>
 
