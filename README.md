@@ -1,7 +1,7 @@
 ## Olá, sou o Bruno Dalbosco Rover 👋
 
 Sempre preferi resolver problemas do que reclamar deles. Essa forma de pensar, junto com minha curiosidade por tecnologia, que começou bem cedo, me trouxe até o mundo da programação.
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (3º semestre) e Ciência da Computação (1º semestre).
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (4º semestre) e Ciência da Computação (2º semestre).
 
 ## Principais Áreas De Conhecimento:
 
