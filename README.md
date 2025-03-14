@@ -132,11 +132,11 @@ Sempre preferi resolver problemas do que reclamar deles. Essa forma de pensar, j
 
 ### 📊 Estatísticas
 
-<p>
+
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=BrunoRover&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -144,8 +144,8 @@ Sempre preferi resolver problemas do que reclamar deles. Essa forma de pensar, j
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRover&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+
