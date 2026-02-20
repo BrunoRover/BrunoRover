@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sempre preferi resolver problemas do que reclamar deles. Essa forma de pensar, junto com minha curiosidade por tecnologia, que começou bem cedo, me trouxe até o mundo da programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (4º semestre) e Ciência da Computação (2º semestre).
+Sempre preferi resolver problemas do que reclamar deles. Essa forma de pensar, junto com minha curiosidade por tecnologia, que começou bem cedo, me trouxe até o mundo da programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (4º semestre) e Ciência da Computação (4º semestre).
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rov3rbruno/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-rover)
@@ -39,14 +39,6 @@ Sempre preferi resolver problemas do que reclamar deles. Essa forma de pensar, j
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
@@ -55,28 +47,21 @@ Sempre preferi resolver problemas do que reclamar deles. Essa forma de pensar, j
 />
 <img 
     align="left" 
-    alt="Java"
-    title="Java" 
+    alt="nestJs"
+    title="nestJs" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
 />
 <img 
     align="left" 
-    alt="spring" 
-    title="spring"
+    alt="nodejs" 
+    title="nodeJs"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
-<img 
-    align="left" 
-    alt="DBeaver" 
-    title="DBeaver"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="MongoDB" 
@@ -103,29 +88,20 @@ Sempre preferi resolver problemas do que reclamar deles. Essa forma de pensar, j
 />
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="DBeaver" 
+    title="DBeaver"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="docker" 
+    title="Docker"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-
 
 <br/>
 <br/>
